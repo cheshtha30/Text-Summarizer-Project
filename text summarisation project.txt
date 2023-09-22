@@ -1,0 +1,30 @@
+Admin@DESKTOP-JFQK03O MINGW64 ~ (master)
+$ git clone http://github.com/cheshtha30/Text-Summarizer-Project.git
+Cloning into 'Text-Summarizer-Project'...
+warning: redirecting to https://github.com/cheshtha30/Text-Summarizer-Project.git/
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (4/4), done.
+remote: Total 5 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (5/5), done.
+
+Admin@DESKTOP-JFQK03O MINGW64 ~ (master)
+$ cd Text-Summarizer-Project/
+
+Admin@DESKTOP-JFQK03O MINGW64 ~/Text-Summarizer-Project (main)
+$ ls
+LICENSE  README.md
+
+Admin@DESKTOP-JFQK03O MINGW64 ~/Text-Summarizer-Project (main)
+$ code .
+
+Admin@DESKTOP-JFQK03O MINGW64 ~/Text-Summarizer-Project (main)
+$ python
+Python 3.11.4 | packaged by Anaconda, Inc. | (main, Jul  5 2023, 13:38:37) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from pathlib import Path
+>>> Path(path)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'path' is not defined. Did you mean: 'Path'?
+>>>
